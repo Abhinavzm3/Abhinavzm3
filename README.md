@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **abhinavzm98@gamil.com**
+- 📫 How to reach me **abhinavzm96@gamil.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YMBddlYdtq7zwSkLKYcDvIIAQQDBymLI/view?usp=sharing](https://drive.google.com/file/d/1YMBddlYdtq7zwSkLKYcDvIIAQQDBymLI/view?usp=sharing)
 
