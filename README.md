@@ -1,12 +1,12 @@
 <img src="https://camo.githubusercontent.com/85ca1a98dd1c4fe2b8b84de4612508468ca4d1c13ab11c4a794f733d37eacfd0/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67" align="center" alt="ABHINAV">
 
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center"> Developer </h3>
+<h3 align="center">Cooking Something🍽️</h3>
 <img src="https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966"  width="450px" align="right" alt="ABHINAV KUMAR MAURYA">
 
-- 🌱 I’m currently learning **DSA, WEBDEV**
+- 🌱 I’m currently learning **DSA, WEB-DEV**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **Something**
 
 - 📫 How to reach me **abhinavzm96@gamil.com**
 
