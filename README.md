@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
 <h3 align="center">Full-Stack Developer from NIT Allahabad</h3>
+<img src="https://images.app.goo.gl/gtXo8M6Zz6eZoUUg6" alt="ABHINAV KUMAR MAURYA">
 
 - 🌱 I’m currently learning **DSA, WEBDEV**
 
