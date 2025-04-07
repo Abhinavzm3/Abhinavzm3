@@ -9,9 +9,7 @@
 - 💬 Ask me about **Something**
 
 - 📫 How to reach me **abhinavzm96@gamil.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YMBddlYdtq7zwSkLKYcDvIIAQQDBymLI/view?usp=sharing](https://drive.google.com/file/d/1YMBddlYdtq7zwSkLKYcDvIIAQQDBymLI/view?usp=sharing)
-
+  
 - ⚡ Fun fact **I love sleeping during the day... 😴**
 
 <h3 align="left">Connect with me:</h3>
